@@ -15,5 +15,6 @@
   margin-top: 18px;
 }
 
-/* .header__search {
-} */
+.header__search {
+  width: 40px;
+}
